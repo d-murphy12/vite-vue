@@ -17,6 +17,7 @@
     <div>
       The best agency around! Give us a call!
     </div>
+    </details>
 </div>
 </template>
 
