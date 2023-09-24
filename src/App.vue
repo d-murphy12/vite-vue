@@ -63,7 +63,7 @@ document.querySelector('#deletecard').addEventListener('click', function(e) {
       document.querySelector('.card:last-child').remove();      
     }
     else {
-      alert("Cannot original last card");
+      alert("Cannot delete last card");
     }
   }
 });
